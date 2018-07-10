@@ -1,0 +1,1 @@
+Home security system built with opencv and python. Goal is to report any human activity when the system is armed. 
