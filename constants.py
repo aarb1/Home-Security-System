@@ -1,3 +1,4 @@
-EMAIL_ADDRESS = "**"
-EMAIL_PASSWORD = "**"
+EMAIL_ADDRESS = "***"
+EMAIL_PASSWORD = "***"
 EMAIL_COOLDOWN = 300 # 5 minutes
+VIDEO_DURATION = 30 # 30 seconds
